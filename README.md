@@ -1,4 +1,4 @@
-# labelImg_data
+# 1.labelImg_data
 ## 人头图像压缩包
 header.zip
 ## 解压后文件
@@ -9,12 +9,12 @@ header_resize
 image_change.py
 ## 生成对应label程序及文件
 label.py label.txt
-# labelImg_use
+# 2.labelImg_use
 ## 原始图像文件夹
 img_release
 ## 人工标注后文件夹
 img_release_label
-## 生成对应txt
+## 生成对应label
 img_release_label_txt
 ## xml转txt程序
 img_release_label_xml-txt.py
